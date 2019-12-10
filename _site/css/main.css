@@ -1466,12 +1466,12 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px white);
+  filter: drop-shadow(0px 2px 7px white); }
 
 .site-title {
-  color: #ffffff;
-  text-shadow: 0px 2px 7px transparent;
+  color: #b40101;
+  text-shadow: 0px 2px 7px white;
   text-transform: uppercase;
   font-size: 5rem;
   font-weight: bold;
@@ -1936,7 +1936,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 0px 2px 7px white; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1950,7 +1950,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px white;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1961,7 +1961,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px white;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2075,7 +2075,8 @@ table tr, table td {
 .post-cta {
   font-size: 18px;
   text-align: center;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  font-weight: bold; }
 
 .socials {
   padding: 0.7rem;
@@ -2640,8 +2641,8 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px white);
+  filter: drop-shadow(0px 2px 7px white); }
 
 .page-hero-img {
   background-position: center;
