@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Biggest Mistakes Home Sellers Make?
-date: 2020-01-13 16:35:02
+date: 2020-01-13 16:35:00
 tags:
   - Home Seller Tips
 excerpt: >-
