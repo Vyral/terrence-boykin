@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/8s_-pkUBfdo'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Home sellers are susceptible to making a wide variety of mistakes. Here are the six most important ones that should be avoided.</em></p>
+
 Now that we’ve passed the holiday season, I’m hearing from a lot of prospective home sellers about what they can do to their home to make sure it sells fast. To do this, it’s important to also avoid the common pitfalls that doom other sellers. If you follow these simple guidelines, the process will be as stress-free as possible. **Do everything you can to avoid making the following mistakes:**
 
 **1\. Picking the wrong agent.** You want an agent who will return your calls, get back to you promptly, and answer your questions. The agent should know the houses in your area because they are the local real estate expert. The right agent will be honest and straightforward with you. They won’t just tell you what you want to hear.
