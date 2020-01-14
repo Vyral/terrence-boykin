@@ -38,4 +38,4 @@ Now that we’ve passed the holiday season, I’m hearing from a lot of prospect
 
 **6\. Emotional attachment to the home.** This is understandable, especially if you’ve raised your family in the home. However, when it’s time to list, you need to see the home as an investment and an asset. There will be lowball offers, but you have to be okay with that. The goal is to get as much money as possible for you on the sale of your home.
 
-If you have any questions for me about this list or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have further questions about this list or real estate in general, don't hesitate to give me a call or send me an email. I look forward to hearing from you soon.
