@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/GpY3Ss1iYAc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>What does the 2020 market year have in store for buyers and sellers in the Triangle area?</em></p>
+
 What can we expect from real estate in the Triangle area now that we’ve begun the new year? Here are our predictions for what’s to come, as well as our advice for buyers and sellers who plan to act in the market this year:
 
 We do expect the housing shortage to continue, which will lead to a continued rise in home prices. The appreciation rate will likely be around 5% in 2020, which is a little lower than previous years but still great for our sellers.
