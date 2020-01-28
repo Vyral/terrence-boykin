@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Predictions for Triangle Real Estate in 2020
-date: 2020-01-28 15:22:57
+date: 2020-01-28 15:22:00
 tags:
   - Real Estate
 excerpt: >-
