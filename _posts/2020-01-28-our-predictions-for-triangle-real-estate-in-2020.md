@@ -31,7 +31,7 @@ With the new year upon us, we see people beginning to focus on their list of goa
 
 {% include pullquote.html %}
 
-It’s also a good time to start interviewing real estate agents. Ask them what recommendations they have for getting your home in peak condition. Here at Boykin Realty Associates, we offer a 2-hour staging consultation with an interior decorator. This helps take the stress out of preparing your home for the market.
+It’s also a good time to start interviewing real estate agents. Ask them what recommendations they have for getting your home in peak condition. Here at Boykin Realty Associates, we offer a two-hour staging consultation with an interior decorator. This helps take the stress out of preparing your home for the market.
 
 The next issue to consider is where you’re going to live. **Since inventory is so tight in the area, you’ll need to plan ahead for your next move.** Ask your agent what strategies they can use to ensure that your family will only have to move once. It’s also a good idea to ask if there are any contingencies they can put in place should issues arise on either the buying or the selling side of the transaction.
 
