@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-ss-2020-predictions-youtube-edit.jpg
-youtube_code: 'https://youtu.be/GpY3Ss1iYAc'
+youtube_code: 'https://youtu.be/ynyl6r9fJj0'
 ---
 
 {% include youtube.html %}
