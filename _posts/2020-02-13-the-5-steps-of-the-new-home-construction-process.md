@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/yUYSgd9SE3E'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>What is the process of building a new home? Today I’ll break it down for you.</em></p>
+
 Are you dissatisfied with your current home’s layout or just ready to live in something new? If so, you’ve probably considered having a new home built for you. How does this process go? Today I’ve broken the new home construction process down into five steps:
 
 **1\. Choose the right floor plan.** There are many other factors to consider when it comes to choosing the layout of new construction homes. &nbsp;Do you want a master bedroom upstairs or downstairs? Do you need a formal dining room or will an eat-in kitchen suffice? Do you plan to entertain guests with mobility restrictions? Consider these questions before you settle on a floor plan.&nbsp;
