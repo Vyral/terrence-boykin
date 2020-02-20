@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-ss-process-of-building-a-new-home-youtube.jpg
-youtube_code: 'https://youtu.be/yUYSgd9SE3E'
+youtube_code: 'https://youtu.be/CTnFL5nP0FU'
 ---
 
 {% include youtube.html %}
