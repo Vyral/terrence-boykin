@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-ss-custom-build-tract-builder-youtube.jpg
-youtube_code: 'https://youtu.be/kCff0wb_tXI'
+youtube_code: 'https://youtu.be/18AQ5H-jjmM'
 ---
 
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>Here are the main differences between custom builders and tract builders.</em></p>
 
-What’s the difference between a custom builder and tract builder?&nbsp;
+What’s the difference between a custom builder and a tract builder?&nbsp;
 
 A custom builder is exactly what it sounds like—**a builder who can customize your home plan so that it functions perfectly for your family.** They may offer thousands of plans to choose from. They can even combine plans for your home to make sure it’s perfect. They’ll normally build in one or two subdivisions at a time, or on a vacant lot for an individual builder. Most custom builders build less than 50 houses per year. &nbsp;
 
