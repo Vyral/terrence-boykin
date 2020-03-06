@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/woEvNh0Croc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>How will the coronavirus affect mortgage rates and ultimately your ability to afford a house? Find out today.</em></p>
+
 As you know, the coronavirus has had quite an impact on the stock market, and in turn, we’ve seen interest rates take a huge drop. Over the last two or three days (as of this recording), rates have fallen significantly. **Before the outbreak of the virus, rates were already as low as they’d ever been, but now they’re even lower.**
 
 This is great for many homebuyers, who will see increased buying power and lower monthly payments because of it. If you’re thinking about moving up, for example, now is the time. **You could also take advantage of the times by taking cash out of your home; home values have increased significantly lately.** Or, if you have mortgage insurance and you want to refinance, doing so now can reduce your rate and get rid of your PMI.
