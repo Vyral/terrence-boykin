@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How and Why Homes Are Still Selling During the Pandemic
-date:
+date: 2020-04-14 20:14:34
 tags:
   - Real Estate
 excerpt: >-
