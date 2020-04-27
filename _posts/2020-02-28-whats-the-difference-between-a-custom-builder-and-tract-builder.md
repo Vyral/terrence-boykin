@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Difference Between a Custom Builder and Tract Builder?
-date: 2020-02-28 21:12:20
+date: 2020-04-26 21:12:20
 tags:
   - Real Estate
 excerpt: Here are the main differences between custom builders and tract builders.
