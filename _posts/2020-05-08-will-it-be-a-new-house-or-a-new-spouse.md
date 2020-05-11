@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Few Ways to Profit From Your Additional Free Time
-date: 2020-05-08 17:23:05
+title: Will It Be a New House or a New Spouse?
+date: 2020-05-08 17:23:00
 tags:
   - Real Estate
 excerpt: >-
