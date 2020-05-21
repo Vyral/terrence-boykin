@@ -18,3 +18,5 @@ youtube_code: 'https://youtu.be/pyj6DsJwbTI'
 {% include youtube.html %}
 
 Jeff Cochran from Exclamation Communications joined me recently to answer the question, “How do business owners pivot out of the coronavirus pandemic?” Jeff and his team have done some great work with us on re-branding during this time, and we’re excited to come out of this period with a fresh look. We talked about what Jeff does, what he’s helped us with, and what advice he has for business owners who are considering a pivot. To learn more, watch our latest video above.
+
+Contact Jeff Cochran at 410-292-7194 or by visiting his website [https://www.eci-design.com/](https://www.eci-design.com/){: target="_blank"}
