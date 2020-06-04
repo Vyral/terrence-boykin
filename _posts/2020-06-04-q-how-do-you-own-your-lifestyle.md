@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/6EF5A1k2pMY'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>In order to truly own your lifestyle, there are certain steps you need to take.</em></p>
+
 How do you own your lifestyle? Today I’m joined by Carlos Mims of the Trapp Insurance Group to help answer that question. In many ways, owning your lifestyle is like building a house. In building that house, there are five steps you need to take in order to afford the life you want for you and your family.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:&nbsp;**
