@@ -27,13 +27,13 @@ There are a few reasons for that. The first is the education level. As you know,
 
 **2\. “Am I going to be renting forever?”**
 
-That depends—are you ‘renting’ your parents’ basement? If so, you’ll probably never move out. However, if you do want to move out, you really only need to have enough money saved up for closing costs. There are several loan programs that can get you into a house without paying a down payment. I recommend that everyone buys real estate; even when I talk to prospective Realtors, I tell them to get their licenses and start buying real estate as soon as they can.
+That depends—are you ‘renting’ your parents’ basement? If so, you may never move out. However, if you do want to move out, you really only need to have enough money saved up for closing costs. There are several loan programs that can get you into a house without paying a down payment. I recommend that everyone buy real estate; even when I talk to prospective Realtors, I tell them to get their licenses and start buying real estate as soon as they can.
 
 {% include pullquote.html %}
 
 **3\. “Why do Realtors hate Zillow?”**
 
-Not all Realtors hate Zillow—it can be a great tool. But yes, some Realtors do hate Zillow, though many of those are the kinds of Realtors who can’t operate an electronic lockbox. The automated home value that Zillow gives homeowners, while not necessarily accurate, can be a great conversation starter between me and a consumer. Zillow has never been in your house; they don’t know what views or upgrades your home has. I can then show that person exactly what their house is worth.
+Not all Realtors hate Zillow—it can be a great tool. But yes, some Realtors do hate Zillow, though many of those Realtors are the kind who can’t operate an electronic lockbox. The automated home value that Zillow gives homeowners, while not necessarily accurate, can be a great conversation starter between me and a consumer. Zillow has never been in your house; they don’t know what views or upgrades your home has. I can then show that person exactly what their house is worth.
 
 **4\. “Are Realtors rich?”**
 
