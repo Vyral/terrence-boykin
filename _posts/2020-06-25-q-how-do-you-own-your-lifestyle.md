@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do You Own Your Lifestyle?'
-date: 2020-06-25 15:49:52
+date: 2020-06-25 15:49:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /_site/uploads/terrence-boykin-ss-how-do-i-own-my-lifestyle-yt.jpg
+youtube_alternate_image: /uploads/terrence-boykin-ss-how-do-i-own-my-lifestyle-yt-1.jpg
 youtube_code: 'https://youtu.be/ICGjIqV_Sp0'
 ---
 
