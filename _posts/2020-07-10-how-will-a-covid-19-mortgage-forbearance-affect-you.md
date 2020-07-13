@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: How Has COVID-19 Impacted Financing?'
-date: 2020-07-10 15:36:13
+title: How Will a COVID-19 Mortgage Forbearance Affect You?
+date: 2020-07-10 15:36:00
 tags:
   - Real Estate
 excerpt: We’re discussing how COVID-19 has impacted financing and forbearance.
