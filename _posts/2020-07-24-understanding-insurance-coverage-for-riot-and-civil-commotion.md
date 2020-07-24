@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/BvIGfcrUjxo'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why property owners need to have an ‘insurance check-up’ in 2020.</em></p>
+
 According to my guest Dyrke Maricle of Goosehead Insurance, it may be time for an ‘insurance check-up,’ but what does that mean? Well, there are a lot of changes that can happen rapidly in life (as 2020 has made very clear). People get married, divorced, have kids, buy cars, build additions to their home—right now, thanks to quarantine, more people than ever have been adding swimming pools to their properties. You want to have a ‘check-up’ to update your policies and make sure that you’re covered for everything you need, not only for your property but also from a liability standpoint.&nbsp;
 
 One of the benefits of doing a check-up with an independent agency like Goosehead Insurance is that they work with over 30 different carriers; they send out your one tiny bit of info to all 30 and let them fight over you so you get the best premium. I know this method is effective, because **Dyrke and his team cut one of my client’s insurance costs in half.&nbsp;**
