@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Understanding Insurance Coverage for “Riot and Civil Commotion”
-date: 2020-07-24 20:09:41
+date: 2020-07-24 20:09:00
 tags:
   - Real Estate
 excerpt: Here’s why property owners need to have an ‘insurance check-up’ in 2020.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/Understanding+Insurance+Coverage+for+Riot+and+Civil+Commotion.mp4
 pullquote: >-
   Your dwelling will be covered from things like  graffiti and window breakage,
   minus your deductible.
