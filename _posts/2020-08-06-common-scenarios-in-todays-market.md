@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/QqtHlkJ8kBo'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Is your situation similar to any of these three anecdotes?</em></p>
+
 A few weeks ago, I sat down for a listing consultation with a homeowner who lives in a ranch home with her oldest daughter. She told me that her husband had recently passed. The main reason she wanted to move is that her husband was the one who took care of all the landscaping; her lovely yard now seemed like an intimidating hassle.&nbsp;
 
 After talking it out for a while, we decided that the best scenario for her would be to **take advantage of these unbelievably low interest rates and refinance.** Her current HOA fees are less than half of what she’d pay in a townhouse, so she can use the money she’s saved from the refinance to pay for a lawn service and stay where she’s been most comfortable for the last 15 years.&nbsp;
