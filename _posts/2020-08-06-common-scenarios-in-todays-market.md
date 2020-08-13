@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/terrence-boykin-ss-frequent-situations-as-a-realtor-yt.jpg
-youtube_code: 'https://youtu.be/QqtHlkJ8kBo'
+youtube_code: 'https://youtu.be/2qcBJSqS-uM'
 ---
 
 {% include youtube.html %}
