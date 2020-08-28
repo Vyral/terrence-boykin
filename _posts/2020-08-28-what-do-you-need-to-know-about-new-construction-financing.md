@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What Do You Need to Know About New Construction Financing?
-date: 2020-08-28 18:42:04
+date: 2020-08-28 18:42:00
 tags:
   - Real Estate
 excerpt: Here’s what you need to know about new construction financing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/What+Do+You+Need+to+Know+About+New+Construction+Financing_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
