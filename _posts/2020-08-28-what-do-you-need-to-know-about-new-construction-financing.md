@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/UVdNxI4kicQ'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what you need to know about new construction financing.</em></p>
+*Here’s what you need to know about new construction financing.*
 
 For this latest installment of my new construction series, I’ll focus on the financing aspect of buying new construction. Joining me is local banker Eduardo Rodriguez to discuss the various issues you need to be aware of regarding new construction loans.&nbsp;
 
@@ -37,4 +37,4 @@ For this latest installment of my new construction series, I’ll focus on the f
 
 14:01—Wrapping things up
 
-As always, if you have questions about this or any real estate topic or are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.&nbsp;
+As always, if you have questions about this or any real estate topic or are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help. You can also contact Eduardo G. Rodriguez at 919-249-2270 or by emailing him at [eduardo.rodriguez@fidelitybanknc.com](mailto:eduardo.rodriguez@fidelitybanknc.com).
