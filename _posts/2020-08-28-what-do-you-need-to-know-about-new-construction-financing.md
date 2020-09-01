@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/UVdNxI4kicQ'
 
 {% include youtube.html %}
 
-*Here’s what you need to know about new construction financing.*
+<p style="text-align: center;"><em>Here’s what you need to know about new construction financing.</em></p>
 
 For this latest installment of my new construction series, I’ll focus on the financing aspect of buying new construction. Joining me is local banker Eduardo Rodriguez to discuss the various issues you need to be aware of regarding new construction loans.&nbsp;
 
