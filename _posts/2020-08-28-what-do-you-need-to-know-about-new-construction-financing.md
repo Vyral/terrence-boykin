@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/edwardo-yt-terrence-boykin.jpg
-youtube_code: 'https://youtu.be/OH1up6VEh1o'
+youtube_code: 'https://youtu.be/UVdNxI4kicQ'
 ---
 
 {% include youtube.html %}
