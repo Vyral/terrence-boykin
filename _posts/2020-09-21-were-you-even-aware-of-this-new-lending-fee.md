@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/iX1KAUBJNS0'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>A new industry-wide lending fee will soon take effect; here’s the scoop.</em></p>
+
 Today I’m joined by Justin Kearney of Equity Holder Mortgage to discuss finances. Justin and I have been marveling at the fact that some of our clients who just bought homes six months ago are already able to refinance now and save money. However, as Justin pointed out, you really need to get the ball rolling if you plan to refinance; if you wait, you’ll get hit with a new government-issued lending fee. Even though this fractional fee will apply to every lender, most homeowners aren’t even aware it’s coming. Exploring your refi options as soon as possible will likely save you a whopping $11,000.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
