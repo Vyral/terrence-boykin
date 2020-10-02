@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/a_DAJQ6p6k0'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>What goes into picking the perfect lot? Here’s what buyers need to know.</em></p>
+
 There’s way more demand for houses in our market than there are houses actually available. A lot of people I’ve talked to told me they’re just going to buy an acre or half-acre of land somewhere and build a house. On the surface, that sounds pretty simple—find a spot, then build there, right? Well, **in the Triangle Area, it’s difficult to find land suitable for building a house,** and it becomes especially difficult if you want to find land but also live in the city, be it Raleigh, Durham, or Chapel Hill.&nbsp;
 
 Most of our clients who are looking for land end up having to go outside of city limits, and that, of course, means forgoing some of those urban creature comforts. One of the easiest ways to find a lot is to work with a production builder, and they’re typically in subdivision neighborhoods that are 40 houses minimum and sometimes as many as 500.&nbsp;
