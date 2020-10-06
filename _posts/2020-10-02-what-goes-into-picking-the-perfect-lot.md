@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-picking-the-perfect-lot-yt.jpg
-youtube_code: 'https://youtu.be/a_DAJQ6p6k0'
+youtube_code: 'https://youtu.be/L2NXgy1wKhk'
 ---
 
 {% include youtube.html %}
