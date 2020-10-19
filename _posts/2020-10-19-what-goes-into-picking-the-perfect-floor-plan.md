@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There’s a big difference between picking a floor plan from a production
   builder and a custom builder.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/What+Goes+Into+Picking+the+Perfect+Floor+Plan_.mp4
 pullquote: >-
   A lot can vary depending on whether you work with a production builder or
   custom builder.
@@ -19,6 +20,8 @@ youtube_code: 'https://youtu.be/l7D-vUOkFU8'
 ---
 
 {% include youtube.html %}
+
+<p style="text-align: center;"><em>There’s a big difference between picking a floor plan from a production builder and a custom builder.</em></p>
 
 A lot of time and effort goes into picking the truly perfect floor plan, and it can vary depending on whether you work with a production builder or custom builder.&nbsp;
 
