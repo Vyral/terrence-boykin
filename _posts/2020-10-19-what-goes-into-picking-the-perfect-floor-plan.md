@@ -29,14 +29,14 @@ A lot of time and effort goes into picking the truly perfect floor plan, and it 
 
 Another thing you’ll have to decide on is the elevation, which determines what the home’s exterior will look like. You’ll choose from a few pre-selected packages that include things like the type of siding, the color and style of the shingles, and the number of windows.&nbsp;
 
-**When you work with a custom builder, the process is more intricate.** You may have thousands of plans to choose from. Once you narrow it down to a few, you’ll sit down with the builder, tell them what you like about the plans, and what you’d like to change. They’ll make adjustments accordingly until you come to an agreement about the house’s layout. Then they’ll take that plan, go over his own drawing, and meet with you once more so you can review the layout again. Many buyers I’ve worked with had to go through this process two, three, or even four times to get it right.&nbsp;
+**When you work with a custom builder, the process is more intricate.** You may have thousands of plans to choose from. Once you narrow it down to a few, you’ll sit down with the builder, tell them what you like about the plans, and what you’d like to change. They’ll make adjustments accordingly until you come to an agreement about the house’s layout. Then they’ll take that plan, revise their drawing, and meet with you once more so you can review the layout again. Many buyers I’ve worked with had to go through this process two, three, or even four times to get it right.&nbsp;
 
 {% include pullquote.html %}
 
 After the drawing looks right, the builder will give you the spec sheet, which details the trim levels and appliances they’d normally include in that build. If you want to change anything at this juncture, you can, but it’ll probably be handled at a later meeting.&nbsp;
 
-The architect will then make a final drawing and send it back to the builder. You’ll still have to approve that drawing, though, because the process may have taken up to five to six weeks, and you may have changed your mind about some things in the meantime. If that’s the case, you’ll meet once or twice more with the builder, send the new options to the architect, and wait for them to redraw the plan and send it back to you to approve.&nbsp;
+The architect will then make a final drawing and send it back to the builder. You’ll still have to approve that drawing, though, because the process may have taken five to six weeks, and you may have changed your mind about some things in the meantime. If that’s the case, you’ll meet once or twice more with the builder, send the new options to the architect, and wait for them to redraw the plan and send it back to you to approve.&nbsp;
 
 Lastly, you’ll send the plan to the engineer to ensure the house can support itself and everything is up to code. When the plan gets back from the engineer, you’ll approve it one more time so the builder can send it to the city or county and receive the proper permits to start building.&nbsp;
 
-If you have questions about this process or have any new construction needs I can help you with, don’t hesitate to reach out to me. I’m here to help.
+If you have questions about this process or any new construction needs I can help you with, don’t hesitate to reach out to me. I’m here to help.
