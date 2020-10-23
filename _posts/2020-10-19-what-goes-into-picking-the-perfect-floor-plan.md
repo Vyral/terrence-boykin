@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-picking-the-perfect-floor-plan-yt.jpg
-youtube_code: 'https://youtu.be/l7D-vUOkFU8'
+youtube_code: 'https://youtu.be/YxyliTz-Ggk'
 ---
 
 {% include youtube.html %}
