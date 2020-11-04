@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/mNMfK8u1lhw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what to expect when it’s time to break ground on your new home.</em></p>
+
 So, the permits are back, everything is cleared and ready to go, and it’s time to lay the foundation. What will this next phase of your new construction home buying journey look like?
 
 **First, you’ll have the pre-construction meeting.** (The builder will most likely clear the lot beforehand so you can have this meeting onsite). They’ll walk you through the basic layout of the house, letting you know where and how the front porch, driveway, patio, garage, etc. will be configured. They’ll also have you walk the entire lot so you get a clear idea of your property’s exact lot lines. If there’s anything you’re unsure about at this point in the process, it’s imperative you ask the builder—when it comes to your dream home, there are no stupid questions.&nbsp;
