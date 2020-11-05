@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-picking-the-perfect-foundation-yt.jpg
-youtube_code: 'https://youtu.be/mNMfK8u1lhw'
+youtube_code: 'https://youtu.be/8rf3j3lTUys'
 ---
 
 {% include youtube.html %}
