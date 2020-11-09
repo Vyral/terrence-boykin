@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Will the Foundation Phase Entail?
+title: Giving Your New Construction Home a Personal Touch
 date: 2020-11-04 14:32:00
 tags:
   - Real Estate
