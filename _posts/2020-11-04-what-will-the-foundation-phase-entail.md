@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Will the Foundation Phase Entail?
-date: 2020-11-04 14:32:40
+date: 2020-11-04 14:32:00
 tags:
   - Real Estate
 excerpt: Here’s what to expect when it’s time to break ground on your new home.
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-picking-the-perfect-foundation-yt.jpg
-youtube_code: 'https://youtu.be/8rf3j3lTUys'
+youtube_code: rap_3AAyv8c
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what to expect when it’s time to break ground on your new home.</em></p>
+*Here’s what to expect when it’s time to break ground on your new home.*
 
 So, the permits are back, everything is cleared and ready to go, and it’s time to lay the foundation. What will this next phase of your new construction home buying journey look like?
 
