@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Here’s what to expect when it’s time to break ground on your new home.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/What+Will+the+Foundation+Phase+Entail_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/Giving+Your+New+Construction+Home+a+Personal+Touch.mp4
 pullquote: >-
   The process usually takes three weeks to a month, and for most of that time,
   it’ll just appear like a bunch of guys playing around in the dirt.
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-picking-the-perfect-foundation-yt.jpg
-youtube_code: rap_3AAyv8c
+youtube_code: h213vXINuuw
 ---
 
 {% include youtube.html %}
 
-*Here’s what to expect when it’s time to break ground on your new home.*
+<p style="text-align: center;"><em>Here’s what to expect when it’s time to break ground on your new home.</em></p>
 
 So, the permits are back, everything is cleared and ready to go, and it’s time to lay the foundation. What will this next phase of your new construction home buying journey look like?
 
