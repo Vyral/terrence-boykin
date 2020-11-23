@@ -20,6 +20,8 @@ youtube_code: 1COdyx0UNsM
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what to expect in the final phase of the new construction home process.</em></p>
+
 So you’ve made all your selections, and when you drive by the property now, it actually looks like they’re building a house\! You’re in the “home stretch”—quite literally. What are the last steps you need to take before closing?&nbsp;
 
 **At this stage, your next meeting will be what’s known as the pre-drywall meeting,** where you follow the builder around to see the guts of what’s behind the walls. During this meeting, make sure that all of the electrical and entertainment outlets are exactly where you had asked them to be. Also, make sure that any islands, appliances, and doors are positioned properly.&nbsp;
