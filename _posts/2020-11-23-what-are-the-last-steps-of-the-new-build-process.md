@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-last-steps-before-closing-on-new-construction-yt.jpg
-youtube_code: q9eB3s2kNIM
+youtube_code: SuL4VgVwhxE
 ---
 
 {% include youtube.html %}
