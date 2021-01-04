@@ -5,7 +5,7 @@ date: 2021-01-04 14:42:50
 tags:
   - Real Estate
 excerpt: Kevin Cochran and I discuss a great program for investing in real estate.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/Chatting+With+Kevin+Cochran+About+Investing.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,6 +15,8 @@ youtube_code: 1ktyVWoNLK0
 ---
 
 {% include youtube.html %}
+
+<p style="text-align: center;"><em>Kevin Cochran and I discuss a great program for investing in real estate.</em></p>
 
 I’m here today with Kevin Cochran with Hunter Street Investment Advisors because there have been many changes with both the real estate and investment markets. There are tons of new investors coming into the real estate market right now because they don’t want to invest in the stock market. So today, Kevin has a fantastic real estate investment program to share with you.
 
