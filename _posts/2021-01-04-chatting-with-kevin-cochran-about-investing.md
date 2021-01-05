@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/12-29-boykin-youtube.jpg
-youtube_code: 1ktyVWoNLK0
+youtube_code: OW6-PYwpIRQ
 ---
 
 {% include youtube.html %}
