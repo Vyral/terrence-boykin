@@ -5,7 +5,7 @@ date: 2021-02-03 18:38:30
 tags:
   - Real Estate
 excerpt: Here are the most revealing stats from our crazy 2020 market.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/How+Did+Our+2020+Market+Fare_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,6 +15,8 @@ youtube_code: 49wETaSwGuI
 ---
 
 {% include youtube.html %}
+
+<p style="text-align: center;"><em>Here are the most revealing stats from our crazy 2020 market.</em></p>
 
 Now that 2021 is well underway and we have complete data from this past December, I want to give you a quick snapshot of the 2020 Triangle real estate market. Last year was a roller coaster, but how did our market bounce back? Where did it leave us here in the new year? Due to the pandemic spreading across the country, the market was unexpectedly turbulent toward the end of the first quarter. Real estate activity slowed to a crawl in March and April, but luckily, we witnessed a dramatic comeback just a couple of months later. With interest rates nestling down at historic lows, buyer activity proved to be a leader once again. In 2020, we even garnered multiple offers on some of our internally networked “coming soon” listings\!&nbsp;
 
