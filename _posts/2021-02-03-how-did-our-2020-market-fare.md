@@ -18,7 +18,9 @@ youtube_code: 49wETaSwGuI
 
 <p style="text-align: center;"><em>Here are the most revealing stats from our crazy 2020 market.</em></p>
 
-Now that 2021 is well underway and we have complete data from this past December, I want to give you a quick snapshot of the 2020 Triangle real estate market. Last year was a roller coaster, but how did our market bounce back? Where did it leave us here in the new year? Due to the pandemic spreading across the country, the market was unexpectedly turbulent toward the end of the first quarter. Real estate activity slowed to a crawl in March and April, but luckily, we witnessed a dramatic comeback just a couple of months later. With interest rates nestling down at historic lows, buyer activity proved to be a leader once again. In 2020, we even garnered multiple offers on some of our internally networked “coming soon” listings\!&nbsp;
+Now that 2021 is well underway and we have complete data from this past December, I want to give you a quick snapshot of the 2020 Triangle real estate market. Last year was a roller coaster, but how did our market bounce back? Where did it leave us here in the new year? 
+
+Due to the pandemic spreading across the country, the market was unexpectedly turbulent toward the end of the first quarter. Real estate activity slowed to a crawl in March and April, but luckily, we witnessed a dramatic comeback just a couple of months later. With interest rates nestling down at historic lows, buyer activity proved to be a leader once again. In 2020, we even garnered multiple offers on some of our internally networked “coming soon” listings\!&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
@@ -38,4 +40,4 @@ Now that 2021 is well underway and we have complete data from this past December
 
 7:42 — Despite all the craziness, buying the perfect home for your needs is still possible&nbsp;
 
-Hopefully you found this year-in-review report to be enlightening. If you have questions about any of the numbers mentioned in this video or are interested in buying or selling soon, please don’t hesitate to reach out. 2021 is primed to be another very strong year for the market; start planning your sale or purchase soon. No matter what’s on your mind, though, I always love hearing from you, and I’m here to be your go-to real estate resource.&nbsp;
+Hopefully, you found this year-in-review report to be enlightening. If you have questions about any of the numbers mentioned in this video or are interested in buying or selling soon, please don’t hesitate to reach out. **2021 is primed to be another very strong year for the market;** start planning your sale or purchase soon. No matter what’s on your mind, though, I always love hearing from you, and I’m here to be your go-to real estate resource.&nbsp;
