@@ -16,6 +16,8 @@ youtube_code: yh6iRgOHoEg
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are some very helpful tips for homebuyers in the market right now.</em></p>
+
 I hope your year has gotten off to a great start as it has here at Boykin Realty. **Our market is still unbelievably hot** as we have just over one month of available inventory. There are very few homes for sale compared to the number of buyers who are looking. That’s great news for sellers but bad news for buyers.&nbsp;
 
 Our buyers are running into multiple-offer situations, and it’s driving them to extend their search, buy a house they don’t want because of time constraints, or just give up on buying altogether. Here are five strategies that we use to help our buyers get in the best possible position:
