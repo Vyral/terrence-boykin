@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/terrence-boykin-best-strategies-for-buying-a-home-yt.jpg
-youtube_code: yh6iRgOHoEg
+youtube_code: 201hjhPdMhg
 ---
 
 {% include youtube.html %}
