@@ -5,7 +5,7 @@ date: 2021-02-18 15:23:31
 tags:
   - Home Buyer Tips
 excerpt: Here are some very helpful tips for homebuyers in the market right now.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/3+Strategies+for+Today%E2%80%99s+Homebuyers.mp4
 pullquote: Most buyers put down anywhere from 5% to 10%.
 enclosure_type: video/mp4
 enclosure_time:
