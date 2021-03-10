@@ -17,6 +17,8 @@ youtube_code: E-ghwOLx6ac
 ---
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why it’s more important than ever to fully understand appraisals.</em></p>
+
 How are low appraisals impacting our Triangle market? What role does an appraisal play in a transaction, anyways? The appraisal process is essentially how the lender determines the amount of money that they can responsibly loan you (the borrower) for the property you’re purchasing. They normally use an appraiser for this part of the transaction.&nbsp;
 
 The appraiser will compare the property you’re purchasing to the three most recent comparable sales. What is a comparable sale, or “comp”? For the appraiser’s purposes, **comps are homes that have similar square footage, floor plans, and are roughly the same age.&nbsp;**
