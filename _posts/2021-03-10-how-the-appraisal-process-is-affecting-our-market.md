@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/terrence-boykin-the-appraisal-process-yt.jpg
-youtube_code: E-ghwOLx6ac
+youtube_code: GFIepGmIb6I
 ---
 {% include youtube.html %}
 
