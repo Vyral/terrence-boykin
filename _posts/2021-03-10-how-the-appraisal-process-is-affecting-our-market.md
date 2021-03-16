@@ -5,7 +5,7 @@ date: 2021-03-10 18:33:00
 tags:
   - Real Estate
 excerpt: Here’s why it’s more important than ever to fully understand appraisals.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/How+the+Appraisal+Process+Is+Affecting+Our+Market.mp4
 pullquote: >-
   I recommend having a preemptive discussion with your buyer’s agent to discuss
   what your game plan is if the home doesn’t appraise for the offer price.
