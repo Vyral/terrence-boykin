@@ -5,7 +5,8 @@ date: 2021-03-25 13:33:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s a tip to help buyers distinguish themselves in the marketplace.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/How+Buyers+Can+Set+Themselves+Apart.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
