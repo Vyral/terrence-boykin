@@ -12,8 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: >-
-  /uploads/terrence-boykin-ss-purchasing-new-construction-is-getting-harder-yt.jpg
+youtube_alternate_image: /uploads/terrence-boykin-ss-new-construction-is-hard-yt.jpg
 youtube_code: tQVBhI5tIdQ
 ---
 {% include youtube.html %}
