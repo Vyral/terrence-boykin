@@ -5,7 +5,8 @@ date: 2021-04-08 18:25:00
 tags:
   - Real Estate
 excerpt: Here’s why new construction home prices are skyrocketing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/How+Rising+Costs+Are+Pushing+New+Construction+Buyers+Out+of+the+Market.mp4
 pullquote: >-
   At worst, price increases could ruin your debt-to-income ratio and prevent you
   from closing altogether.
