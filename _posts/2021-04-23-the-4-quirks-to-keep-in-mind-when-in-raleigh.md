@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 4 Quirks to Keep in Mind When in Raleigh
-date: 2021-04-23 17:40:34
+date: 2021-04-23 17:40:00
 tags:
   - Real Estate
 excerpt: 'Raleigh is fantastic, but there are a few things newcomers should know.'
@@ -27,8 +27,8 @@ I work with a lot of people moving into Raleigh from other areas of the country,
 
 {% include pullquote.html %}
 
-**3\. The city takes snow seriously.** If you hear the weatherman say it might snow, Raleigh is going to shut down. Whether they forecast 2 centimeters or 2 feet, you’re not going to work and your kids aren’t going to school for the rest of the week. Here’s another quick tip: Avoid the grocery store during snowy weather if at all possible—people get ferocious over bread and milk.
+**3\. The city takes snow seriously.** If you hear the weatherman say it might snow, Raleigh is going to shut down. Whether they forecast two centimeters or two feet, you’re not going to work and your kids aren’t going to school for the rest of the week. Here’s another quick tip: Avoid the grocery store during snowy weather if at all possible—people get ferocious over bread and milk.
 
-**4\. “Bless your heart” is a sign of trouble.** This phrase is used a lot by the older, Southern women who live in our area. These ladies are absolutely wonderful, but if you hear one say, “Bless your heart,” end the conversation immediately and get out of there. Why? Because “bless your heart” is basically a nice way of saying, “You’re stupid.”&nbsp;
+**4\. “Bless your heart” is a sign of trouble.** This phrase is used a lot by the older, Southern women who live in our area. These ladies are wonderful, but if you hear one say, “Bless your heart,” end the conversation immediately and get out of there. Why? Because “bless your heart” is basically a nice way of saying, “You’re stupid.”&nbsp;
 
 Hopefully, these tips will help prepare you for some of the quirks that come along with our city. If you’re wanting to find a home in our community, or if you have any questions, feel free to reach out to me. I look forward to hearing from you soon.
