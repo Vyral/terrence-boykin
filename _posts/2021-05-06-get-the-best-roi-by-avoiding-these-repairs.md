@@ -20,9 +20,9 @@ youtube_code: 9TWnqu77NY8
 
 The upgrades I'm going to talk about today may look great in your home, but at the end of the day, they won’t put money in your pocket at closing. Here are the four upgrades that sellers should avoid:
 
-**1\. Remodeling the second and third floors.** If you live in a multi-story home, your money is best spent remodeling the main level. The first level is the first thing buyers see when they come into the house and probably the last thing they'll see when they leave. The first floor is the most important to those buyers so the second and third floors will be an afterthought for them.
+**1\. Remodeling the second and third floors.** If you live in a multi-story home, your money is best spent remodeling the main level. The first level is the first thing buyers see when they come into the house and probably the last thing they'll see when they leave. The first floor is the most important to those buyers, so the second and third floors will be an afterthought for them.
 
-**2\. Trim items like crown molding and wainscoting.** They look great, but I can't guarantee that you're going to get a return on investment. These upgrades are good if you're planning to stay in your home. They'll definitely add to your enjoyment throughout the years.
+**2\. Trim items like crown molding and wainscoting.** They look great, but I can't guarantee that you're going to get a return on investment. These upgrades are good if you're planning to stay in your home. They'll add to your enjoyment throughout the years.
 
 {% include pullquote.html %}
 
@@ -32,4 +32,4 @@ The upgrades I'm going to talk about today may look great in your home, but at t
 
 These are general tips and our advice may change a bit depending on the type of market you're in. In this strong seller's market, you might not have to do as many repairs. If it were a strong buyer's market, you might spend a little more money on repairs because you'd want your home to stand out above the crowd.
 
-If you have questions about which upgrades you should make, give us a call. I'd love to talk to you about it. I hope this information was helpful and I hope you enjoy the rest of your day.
+If you have questions about which upgrades you should make, give us a call. I'd love to talk to you about it. I hope this information was helpful, and enjoy the rest of your day.
