@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Why There Probably Won’t Be a Lot of Foreclosures
-date: 2021-05-20 14:47:11
+date: 2021-05-20 14:47:00
 tags:
   - Real Estate
 excerpt: Will there be a wave of foreclosures in our future?
 enclosure:
-pullquote:
+pullquote: I don't think we're going to see a slew of foreclosures.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/05-20-boykin-youtube.png
+youtube_alternate_image: /uploads/05-20-boykin-youtube.jpg
 youtube_code: k78ta0jCJx0
 ---
 {% include youtube.html %}
@@ -22,6 +22,8 @@ youtube_code: k78ta0jCJx0
 **1\. 50% of people in forbearance are in a good position.** Chances are that many of the homes currently in forbearance won’t end up in foreclosure.
 
 **2\. Banks learned their lesson in 2008.** Banks are in the business of lending money and making interest on that money; they’re not in the business of being property managers or Realtors. Banks took on so many homes during the crash that they were still selling some of them in 2014.
+
+{% include pullquote.html %}
 
 **3\. There’s no political will for foreclosures.** Our elected officials stay in power by getting the votes they need; if there’s a flood of foreclosures, that will reflect poorly on them. Some are even taking steps to penalize lenders who aren’t working with homeowners to ensure they can stay in their homes.
 
