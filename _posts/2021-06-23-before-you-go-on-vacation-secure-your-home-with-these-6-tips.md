@@ -5,7 +5,8 @@ date: 2021-06-23 00:00:00
 tags:
   - Real Estate
 excerpt: These six tips will help you keep your home secure while you’re away.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/Before+You+Go+on+Vacation%2C+Secure+Your+Home+With+These+6+Tips.mp4
 pullquote: You want to make sure to prepare your home before you leave.
 enclosure_type: video/mp4
 enclosure_time:
