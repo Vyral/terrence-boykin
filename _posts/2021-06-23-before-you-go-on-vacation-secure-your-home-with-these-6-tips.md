@@ -19,7 +19,7 @@ youtube_code: g4TD7Hcofyo
 
 The hot summer season is finally here, and a lot of people are taking the opportunity to plan a getaway after being cooped up in the house for the last year. If you’re getting ready to go on vacation, though, you want to make sure to prepare your home before you leave. **Here are the six things you should do:**
 
-**1\. Clean the kitchen:** Get rid of the perishables on your countertops and in your pantry, fridge, and cabinets. You may also want to put some vinegar and water down the sink. Make sure all your appliances are turned off, and don’t forget to flush all the toilets, either\!
+**1\. Clean the kitchen:** Get rid of the perishables on your countertops and in your pantry, fridge, and cabinets. You may also want to put some vinegar and water down the sink. Make sure all your appliances are turned off and don’t forget to flush all the toilets, either\!
 
 **2\. Get light timers:** These inexpensive timers will turn your lights on and off at certain times, making it appear like you’re home and warding away intruders.
 
