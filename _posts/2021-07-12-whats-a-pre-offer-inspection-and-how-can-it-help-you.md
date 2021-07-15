@@ -20,7 +20,7 @@ youtube_code: LkOJUed3I2s
 
 I’m here today to give you buyers a little insurance on your next home purchase. Low inventory is dominating the market, and it’s leading buyers to have to pay a higher due-diligence fee. This fee is paid to a home seller once we go under contract so the buyer can do their home inspection and appraisal.&nbsp;
 
-When I started in this business, due diligence fees were anywhere from $500 to $1,500. **Today, these fees are commonly $15,000 to as much as $100,000.** As an agent, I don’t feel great about that because I have a fiduciary responsibility to my clients and it just doesn't seem right to put $100,000 down as a nonrefundable fee.&nbsp;
+When I started in this business, due-diligence fees were anywhere from $500 to $1,500. **Today, these fees are commonly $15,000 to as much as $100,000.** As an agent, I don’t feel great about that because I have a fiduciary responsibility to my clients and it just doesn't seem right to put $100,000 down as a nonrefundable fee.&nbsp;
 
 I was talking to my home inspector buddy Michael Szeto about this a few months ago and he told me about a tool he’s using called the pre-offer inspection. He’s here today to explain a little bit more about what that is and how it works.
 
@@ -30,12 +30,12 @@ I was talking to my home inspector buddy Michael Szeto about this a few months a
 
 3:25- A story of how Michael helped a recent client of mine
 
-4:15- What Michael is looking for in a pre-offer inspection that us agents don’t always see
+4:15- What Michael is looking for in a pre-offer inspection that we agents don’t always see
 
 5:04- How to learn more about the pre-offer inspection from Michael himself
 
 6:13- Wrapping things up
 
-If you have any questions for Michael, give him a call at 919-271-9950 or send an email to [Michael@mplhomeinspections.com](mailto:Michael@mplhomeinspections.com). He has a time slot every day for pre-offer inspection and he does an absolutely fantastic job.
+If you have any questions for Michael, give him a call at 919-271-9950 or send an email to [Michael@mplhomeinspections.com](mailto:Michael@mplhomeinspections.com). He has a time slot every day for pre-offer inspections, and he does a fantastic job.
 
 I hope this was helpful for you. If you have any real estate questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
