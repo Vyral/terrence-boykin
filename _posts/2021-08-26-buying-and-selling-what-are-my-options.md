@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Ways to Buy and Sell Simultaneously
+title: 'Buying and Selling; What are my options? '
 date: 2021-08-26 00:00:00
 tags:
   - real estate
@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /tb-yt.jpg
+youtube_alternate_image: /terrence-boykin-ss-youtube-2.jpg
 youtube_code: 8dRS0lfvZYw
 ---
 {% include youtube.html %}
