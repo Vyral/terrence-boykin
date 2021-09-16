@@ -20,7 +20,7 @@ youtube_code: 8E9ajaK7Tf8
 
 I’m here with Jason White, who works in home insurance and is a former police officer, and we wanted to talk a bit about how to keep your home safe. This is a question I get a lot. I also get a similar question of, “Which neighborhoods are the safest?” As a quick disclaimer, I am not allowed to answer that as a North Carolina Realtor, but someone like Jason may be able to answer your questions on that.
 
-**You can watch the full video above, or skip around to topics you’re interested in via the timestamps provided below for your convenience:**
+**You can watch the full video above or skip around to topics you’re interested in via the timestamps provided below for your convenience:**
 
 0:50 — Make sure your home looks lived in
 
