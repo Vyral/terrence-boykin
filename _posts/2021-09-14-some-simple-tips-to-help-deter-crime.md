@@ -6,7 +6,8 @@ tags:
   - real estate
   - home owner tips
 excerpt: Here are a couple of tips on how to help protect your house.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/Some+Simple+Tips+To+Help+Deter+Crime.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
