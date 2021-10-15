@@ -23,7 +23,7 @@ Fall is here, and the weather is perfect, but that means winter is about to hit 
 
 **2\. Have your roof checked out.** You might have had shingles blown off or cracked with all the crazy winds this year. Water can seep down in these areas, freeze, and make the problem worse, so it’s important to check this now.
 
-**3\. Prepare outdoor faucets.** If you know you won’t need it over the winter, put the hoses in the garage and maybe even turn the water off to those faucets. Newer homes will have a control value where you can easily turn that water off.
+**3\. Prepare outdoor faucets.** If you know you won’t need it over the winter, put the hoses in the garage and maybe even turn the water off to those faucets. Newer homes will have a control valve where you can easily turn that water off.
 
 {% include pullquote.html %}
 
@@ -31,6 +31,6 @@ Fall is here, and the weather is perfect, but that means winter is about to hit 
 
 **5\. Have someone check your fireplace.** Before you start up your first fire of the year, have someone look at the firebox and the chimney to make sure it’s all clean.
 
-We hope these tips help you enjoy your home a bit more this fall and winter. If you have any questions about basic maintenance or other real estate topics, feel free to give me a call. We’d love to help.
+We hope these tips help you enjoy your home a bit more this fall and winter. If you have any questions about basic maintenance or other real estate topics, feel free to give us a call. We’d love to help.
 
 &nbsp;
