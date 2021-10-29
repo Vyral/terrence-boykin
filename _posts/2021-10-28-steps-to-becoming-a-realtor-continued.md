@@ -17,9 +17,9 @@ youtube_code: YPhZ0BWQ0Lc
 
 {% include excerpt.html %}
 
-I’m back to continue our conversation about what it takes to become a Realtor by sharing a couple of stories about new agents who, despite being new, generated business in their first couple tries.
+I’m back to continue our conversation about what it takes to become a Realtor by sharing a couple of stories about agents who, despite being new, generated business in their first couple tries.
 
-Two or three weeks ago, a new agent joined us for our Thursday morning lead-gen meeting, though she thought she was just coming in for a class to see how things are done. I helped her create a script by repurposing one of our old ones, and she ended up getting two referrals on her first day. **It was her first time ever making a call\!** She’ll get a 25% referral fee just for making two phone calls.
+Two or three weeks ago, a new agent joined us for our Thursday morning lead-gen meeting. She thought she was just coming in for a class to see how things are done. I helped her create a script by repurposing one of our old ones, and she ended up getting two referrals on her first day. **It was her first time ever making a real estate call\!** She’ll get a 25% referral fee just for making two phone calls.
 
 {% include pullquote.html %}
 
