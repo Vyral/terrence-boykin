@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thank you for your support
+title: Thank You For Your Support
 date: 2021-11-11 00:00:00
 tags:
     - real estate
@@ -15,8 +15,6 @@ youtube_code: FhyAO7conPE
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Friends,
 
 The 2021 holiday season has officially begun\! We hope you are as excited as we are.
@@ -29,6 +27,4 @@ Enjoy your Thanksgiving dinner—that’s what we plan to do\!
 
 In the meantime, please don’t hesitate to reach out to us if you have any real estate questions. We would be happy to help you.<br>​​​
 
-Happy Thanksgiving,
-
-&nbsp;
+Happy Thanksgiving\!
