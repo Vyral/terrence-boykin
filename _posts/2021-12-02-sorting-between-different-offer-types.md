@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-boykin-ss-youtube.jpg
-youtube_code: 3hQhyIys4po
+youtube_code: mGL9IiotBic
 ---
 {% include youtube.html %}
 
