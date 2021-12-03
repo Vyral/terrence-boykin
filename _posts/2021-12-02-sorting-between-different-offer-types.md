@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do You Know You Could Receive 4 DIFFERENT Types of Offers for Your Home?
+title: Did You Know You Could Receive 4 DIFFERENT Types of Offers for Your Home?
 date: 2021-12-02 16:25:38
 tags:
   - Home Seller Tips
