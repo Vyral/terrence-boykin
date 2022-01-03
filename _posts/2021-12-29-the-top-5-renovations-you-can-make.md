@@ -18,7 +18,7 @@ youtube_code: oiwZdj1V0Hw
 
 {% include excerpt.html %}
 
-I speak to a lot of homeowners who aren’t necessarily ready to move yet, but they want to upgrade their house. If you are one of these homeowners, what renovations should you make to get your money back when you sell? Today I’ll give you my top five remodels to consider if you’re planning on moving in the next couple of years.&nbsp;
+I speak to a lot of homeowners who aren’t necessarily ready to move yet, but they want to upgrade their houses. If you are one of these homeowners, what renovations should you make to get your money back when you sell? Today I’ll give you my top five remodels to consider if you’re planning on moving in the next couple of years:
 
 **1\. Landscaping.** This one is usually inexpensive, and it goes a long way. Trimming your trees, cutting your grass, and updating your walkways are all good ways to make your home pop from the street.&nbsp;
 
@@ -30,6 +30,6 @@ I speak to a lot of homeowners who aren’t necessarily ready to move yet, but t
 
 **4\. Improving your decking.** If your wood is old or your handles are shaky, consider updating your outside space. You may also want to power wash or treat your deck.
 
-**5\. Upgrading your kitchen and bathrooms.** I saved this one for last because you can spend a lot of money updating these if you aren’t careful. Before you update these areas, consider how long you want to stay in your current house. If you don’t plan on spending a ton of money, you can always do simple things, such as painting the cabinets lighter color.&nbsp;
+**5\. Upgrading your kitchen and bathrooms.** I saved this one for last because you can spend a lot of money updating these if you aren’t careful. Before you update these areas, consider how long you want to stay in your current house. If you don’t plan on spending a ton of money, you can always do simple things, such as painting the cabinets a lighter color.&nbsp;
 
 This was a lot of information, so if you have any questions, please reach out to me or my team. You can call us at 919-675-9967 or email us at [Terrence@RaleighsBestAgent.com](mailto:Terrence@RaleighsBestAgent.com). We look forward to hearing from you\!&nbsp;
