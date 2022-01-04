@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'Here are five renovations you can make to sell your home for more. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/The+Top+5+Renovations+You+Can+Make.mp4
 pullquote: 'Office space is a must-have for buyers who work from home. '
 enclosure_type: video/mp4
 enclosure_time:
