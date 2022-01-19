@@ -5,7 +5,8 @@ date: 2022-01-14 00:00:00
 tags:
   - Real Estate
 excerpt: 'Here are five tips to make your long-distance move go smoothly. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/5+Tips+for+a+Long-Distance+Relocation.mp4
 pullquote: 'Closings can get delayed, so make sure you have a backup plan. '
 enclosure_type: video/mp4
 enclosure_time:
