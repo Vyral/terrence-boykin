@@ -4,7 +4,8 @@ title: 5 Safety Precautions To Take When Shopping
 date: 2022-01-27 00:00:00
 tags:
 excerpt: Here are five ways to keep yourself safe when you’re out shopping.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/5+Safety+Precautions+To+Take+When+Shopping.mp4
 pullquote: >-
   While you’re shopping, and especially while you’re walking to your car, put
   the phone away.
