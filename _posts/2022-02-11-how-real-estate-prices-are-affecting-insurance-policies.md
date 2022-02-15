@@ -29,6 +29,6 @@ Even if you’ve done everything you're supposed to do, a disaster can put you i
 
 Here in the Triangle, it’s going to cost around $200 per square foot to rebuild your home. Jason has talked to industry veterans who have never seen costs like this. We’re looking at having high prices with building materials through 2023.
 
-At North Carolina Farm Bureau Insurance, Jason and his team are helping clients review their insurance policies right here in North Carolina. **They try to take things on a case-by-case basis, and they give their clients 100% replacement cost for their standard homeowners insurance policy.**
+At North Carolina Farm Bureau Insurance, Jason and his team are helping clients review their insurance policies right here in our state. **They try to take things on a case-by-case basis, and they give their clients 100% replacement cost for their standard homeowners insurance policy.**
 
 If you need to review your insurance, I recommend reaching out to [jason.white@ncfbins.com](mailto:jason.white@ncfbins.com). If you have any real estate-related questions for me, don’t hesitate to reach out via phone or email today. I look forward to hearing from you soon.
