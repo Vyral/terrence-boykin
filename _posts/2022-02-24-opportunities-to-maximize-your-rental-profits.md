@@ -5,7 +5,8 @@ date: 2022-02-24 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s how to know if it’s a good time to sell your rental property.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/Opportunities+To+Maximize+Your+Rental+Profits.mp4
 pullquote: >-
   As a landlord and a property owner, I’ve never seen so many options for you to
   increase your profits.
