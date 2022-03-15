@@ -21,6 +21,8 @@ One of the biggest questions I’ve been getting is, “What the heck is going o
 
 **Feel free to watch the full video, or use these timestamps to browse specific topics at your leisure:**
 
+0:00 — Introduction
+
 0:30 — Is it smart to lock in a rate right now, or should you wait?
 
 1:45 — How long will an interest rate stay locked into a mortgage?
@@ -31,6 +33,6 @@ One of the biggest questions I’ve been getting is, “What the heck is going o
 
 5:00 — Final thoughts
 
-**If you have any questions for Rich about interest rates, refinancing, and what you can qualify for, give him a call at 919-616-4912 or send him an email to rich.cohen@movement.com.**
+**If you have any questions for Rich about interest rates, refinancing, and what you can qualify for, give him a call at 919-616-4912 or email him at rich.cohen@movement.com.**
 
 If you have any other real estate-related questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
