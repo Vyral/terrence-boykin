@@ -5,7 +5,8 @@ date: 2022-03-15 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s my full conversation with Rich Cohen of Movement Mortgage.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/Mortgage+Q%26A+With+Movement%E2%80%99s+Rich+Cohen.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
