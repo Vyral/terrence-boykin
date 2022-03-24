@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Keller Williams Online Real Estate School
-date: 2022-03-11 00:00:00
+date: 2022-03-24 00:00:00
 tags:
   - Real Estate
 excerpt: Ready to start a new career in real estate? Here’s your shot.
