@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mortgage Q&A With Movement’s Rich Cohen
-date: 2022-03-15 00:00:00
+date: 2022-03-24 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s my full conversation with Rich Cohen of Movement Mortgage.
