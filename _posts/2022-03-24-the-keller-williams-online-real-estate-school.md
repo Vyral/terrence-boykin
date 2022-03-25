@@ -23,6 +23,6 @@ Now is an excellent opportunity for you to finally consider taking steps toward 
 
 The best part? This course is completely free\! That’s right—you can start your new real estate career without spending a dime.
 
-Plus, Keller Williams has added a package to their school called **KW Prep**, where new Realtors will be instructed on the day-to-day life of being in the business, including tips on how to run a business.
+Plus, Keller Williams has added a package to their school called **KW Prep**, where new Realtors will be instructed on the day-to-day life of being an agent, including tips on how to run a business.
 
 If you have any questions about taking this first step on your path to a career in real estate and gaining control of your finances, don’t hesitate to give us a call or send us an email. We’ll be more than happy to talk to you about this excellent opportunity.
