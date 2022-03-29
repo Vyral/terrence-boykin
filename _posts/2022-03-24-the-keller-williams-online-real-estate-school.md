@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/terrence-boykin-ss-youtube-23.jpg
-youtube_code: _liVvVDcrUk
+youtube_code: QB9HaadL-4E
 ---
 {% include youtube.html %}
 
@@ -19,7 +19,7 @@ youtube_code: _liVvVDcrUk
 
 Now is an excellent opportunity for you to finally consider taking steps toward a career in real estate. You’ve probably been thinking about it for a while. Maybe you even have friends and family in the business already. Here’s your chance:
 
-**Keller Williams now has an online real estate school represented across the country.** Understand that taking this class does not mean that you have to sign with Keller Williams; once you’re done, you’ll be able to sign with any agency you like. To attend, you won’t have to rearrange your daily schedule because this is a self-paced course that allows you to work mornings, evenings, or weekends.
+**[Keller Williams now has an online real estate school](https://how2sellhouses.com/){: target="_blank" rel="noopener"} represented across the country.** Understand that taking this class does not mean that you have to sign with Keller Williams; once you’re done, you’ll be able to sign with any agency you like. To attend, you won’t have to rearrange your daily schedule because this is a self-paced course that allows you to work mornings, evenings, or weekends.
 
 The best part? This course is completely free\! That’s right—you can start your new real estate career without spending a dime.
 
