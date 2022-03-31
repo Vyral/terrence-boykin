@@ -5,7 +5,8 @@ date: 2022-03-24 00:00:00
 tags:
   - Real Estate
 excerpt: Ready to start a new career in real estate? Here’s your shot.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/The+Keller+Williams+Online+Real+Estate+School.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
