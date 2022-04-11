@@ -19,7 +19,7 @@ youtube_code: l1qA_xuZEuw
 
 KW Prep will help you prepare to run a real estate business while you’re still in real estate school. Today I’m really excited to talk to you about how that works.
 
-We’ve partnered with Kaplan University to offer this specialized real estate school at no cost to you; it’s among the best real estate schools out there. The big issue that many new and aspiring agents don’t know is that **most real estate schools only prepare you for the legal side of being an agent.** This causes a lot of new agents to become stuck because they don’t know how to run a business; they only know how to avoid getting in trouble.
+We’ve partnered with Kaplan University to offer this specialized [real estate school at no cost to you](https://how2sellhouses.com/){: target="_blank" rel="noopener"}; it’s among the best real estate schools out there. The big issue that many new and aspiring agents don’t know is that **most real estate schools only prepare you for the legal side of being an agent.** This causes a lot of new agents to become stuck because they don’t know how to run a business; they only know how to avoid getting in trouble.
 
 {% include pullquote.html %}
 
