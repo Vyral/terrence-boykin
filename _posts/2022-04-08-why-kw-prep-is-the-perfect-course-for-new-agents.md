@@ -19,10 +19,10 @@ youtube_code: l1qA_xuZEuw
 
 KW Prep will help you prepare to run a real estate business while you’re still in real estate school. Today I’m really excited to talk to you about how that works.
 
-We’ve partnered with Kaplan University to offer this specialized real estate school at no cost to you. It’s as good of a real estate school as there is. The big issue that most new and aspiring agents don’t know is that **most real estate schools only prepare you for the legal side of being an agent.** This causes a lot of new agents to become stuck because they don’t know how to run a business; they only know how to avoid getting in trouble.
+We’ve partnered with Kaplan University to offer this specialized real estate school at no cost to you; it’s among the best real estate schools out there. The big issue that many new and aspiring agents don’t know is that **most real estate schools only prepare you for the legal side of being an agent.** This causes a lot of new agents to become stuck because they don’t know how to run a business; they only know how to avoid getting in trouble.
 
 {% include pullquote.html %}
 
-**KW Prep runs side by side with our real estate school and helps you learn the basics of growing your real estate business along with the legal side.** This will put you so far ahead of graduates from other real estate classes. You’ll already know what to do to build a successful and lasting business from day one.
+**KW Prep runs side by side with our real estate school and helps you learn the legal side of things along with the basics of growing your business.** This will put you so far ahead of graduates from other real estate classes. You’ll already know what to do to build a successful and lasting business from day one.
 
-If you have any questions about KW Prep and how it can help you get the ball rolling from day one of your career, don’t hesitate to reach out via phone or email today. I would love to hear from you.<br>&nbsp;
+If you have any questions about KW Prep and how it can help you get the ball rolling, don’t hesitate to reach out via phone or email today. We would love to hear from you.<br>&nbsp;
