@@ -5,7 +5,8 @@ date: 2022-04-08 17:43:33
 tags:
   - Real Estate
 excerpt: Here’s why KW Prep is the perfect course for brand-new real estate agents.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/Why+KW+Prep+Is+the+Perfect+Course+for+New+Agents.mp4
 pullquote: Most real estate schools only teach you how to avoid legal issues.
 enclosure_type: video/mp4
 enclosure_time:
