@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should You Buy Now or Wait?
+title: Today’s Interest Rate or Pay Thousands More for Your Home?
 date: 2022-04-22 15:17:29
 tags:
   - Market Update
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/terrence-boykin-ss-youtube.jpeg
-youtube_code: 0N4M9fPshF4
+youtube_code: dKjkVWh9JzU
 ---
 {% include youtube.html %}
 
