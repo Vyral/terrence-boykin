@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today’s Interest Rate or Pay Thousands More for Your Home?
+title: Current Interest Rates vs Rising Prices
 date: 2022-04-22 15:17:29
 tags:
   - Market Update
