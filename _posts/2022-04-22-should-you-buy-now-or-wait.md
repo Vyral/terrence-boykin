@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Current Interest Rates vs Rising Prices
+title: Current Interest Rates vs Rising Home Prices
 date: 2022-04-22 15:17:29
 tags:
   - Market Update
