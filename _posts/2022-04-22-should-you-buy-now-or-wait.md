@@ -8,7 +8,8 @@ tags:
   - Home Seller Tips
   - Home Buyer Tips
 excerpt: Jeff Williams helps me answer whether you should buy now or wait.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Terrence+Boykin/Current+Interest+Rates+vs+Rising+Home+Prices.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
