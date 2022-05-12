@@ -12,7 +12,7 @@ pullquote: The fix is likely easier than you think.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/terrence-boykin-ss-youtube-2.jpg
+youtube_alternate_image: /uploads/terrence-boykin-ss-youtube-3.jpg
 youtube_code: AUu8Xj4PktQ
 ---
 {% include youtube.html %}
