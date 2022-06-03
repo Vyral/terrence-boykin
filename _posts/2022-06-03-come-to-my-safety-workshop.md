@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/terrence-boykin-youtube.jpg
-youtube_code: dVTLhne-7Xc
+youtube_code: OOTAU52b5ag
 ---
 {% include youtube.html %}
 
