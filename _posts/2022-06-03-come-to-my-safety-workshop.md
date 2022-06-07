@@ -26,4 +26,4 @@ You’ve probably noticed the uptick in crime across the country. There have bee
 
 Jason White is one of my insurance providers, and he's a retired Raleigh police officer. He and another speaker who trains law enforcement officers will be there to give us some great insight. Tina Owen will also show some different products that you and your family can use to stay safe.
 
-You can sign up for this workshop here. If you have any questions give me a call at (919) 675-9967. I look forward to hearing from you.
+[You can sign up for this workshop here.](https://www.eventbrite.com/e/family-safety-workshop-tickets-359542520357){: target="_blank" rel="noopener"} If you have any questions give me a call at (919) 675-9967. I look forward to hearing from you.
