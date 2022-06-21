@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Why Your Close Date Could Change
+title: Why Your Closing Date Could Change
 date: 2022-06-17 16:44:08
 tags:
 excerpt: A few tips to keep in mind if your house doesn’t close on time.
 enclosure:
-pullquote: >-
-  Be sure to let your movers know in advance that there’s a possibility that
-  your moving date could shift.
+pullquote: Let your movers know in advance that your moving date could shift.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -26,8 +24,8 @@ On the buying side, for instance, the lender will dive into the buyer’s credit
 
 {% include pullquote.html %}
 
-On the other side, the sellers could be waiting for a HUD or a USDA payoff; government agencies tend to work at their own pace. In the North Carolina offer to purchase, there’s a built-in grace period that both the buyer and seller can use to extend the closing date by seven business days.
+On the other side, the sellers could be waiting for a HUD or a USDA payoff; government agencies tend to work at their own pace. In North Carolina, offers to purchase have a built-in grace period that both the buyer and seller can use to extend the closing date by seven business days.
 
-Be sure to let your movers know in advance that there’s a possibility that your moving date could shift so that you’ll know if they’re still available. If necessary, **you should also work with your agent to find alternative housing** between homes so that you don’t end up sleeping in your car. If you have pets, it might be wise to look into a pet boarder since not all Airbnbs and hotels allow pets.
+Let your movers know in advance that your moving date could shift. This way, you can check each others' availability in case something changes. If necessary, **you should also work with your agent to find alternative housing** between homes so that you don’t end up sleeping in your car. If you have pets, it might be wise to look into a pet boarder since not all Airbnbs and hotels allow pets.
 
 If you have any questions about the offer to purchase, listing agreement, or anything else to do with real estate, give me a call or send me an email. I’d be more than happy to have a conversation with you.
