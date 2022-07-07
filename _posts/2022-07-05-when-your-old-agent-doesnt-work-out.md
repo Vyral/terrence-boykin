@@ -3,7 +3,7 @@ layout: post
 title: When Your Old Agent Doesn’t Work Out
 date: 2022-07-05 16:27:12
 tags:
-excerpt: 'Here’s what you need to know about ending your buyer agency agreement. '
+excerpt: What you need to know when ending your buyer agency agreement.
 enclosure:
 pullquote: >-
   Barring fees, you don’t owe your former agent anything once you cancel your
