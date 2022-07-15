@@ -16,6 +16,8 @@ youtube_code: 8cPgpaAIi9Y
 
 {% include excerpt.html %}
 
+&nbsp;
+
 Today I’m speaking with Jason White, a great friend of mine and ex-Raleigh police officer. I wanted to talk with him because we have an upcoming safety workshop on August 10, 2022. This workshop will be about how families can stay safe in our current environment. Today we’ll discuss Jason’s background and what we’ll cover in our workshop.&nbsp;
 
 **So Jason, what is your background?**
