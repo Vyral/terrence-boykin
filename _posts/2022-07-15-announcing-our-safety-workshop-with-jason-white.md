@@ -26,7 +26,11 @@ I spent five years on patrol in the Raleigh police force, but before that, I wor
 
 Absolutely. When I was a police officer, I saw many cases where people were taken advantage of because they just weren’t paying attention. Whether they were looking at their phone, focused on a conversation, or something else, they had something keeping their attention away from present danger.
 
+&nbsp;
+
 {% include pullquote.html %}
+
+&nbsp;
 
 **How will you address this at our workshop?**
 
