@@ -24,7 +24,7 @@ I spent five years on patrol in the Raleigh police force, but before that, I wor
 
 **A lot of young people are glued to their phones. Will you address this at your workshop?**
 
-Absolutely. When I was a police officer, I saw many cases where people were taken advantage of because they just weren’t paying attention. Whether they were looking at their phone, focused on a conversation, or something else, they had something keeping their attention away from present danger.
+Absolutely. When I was a police officer, I saw many cases where people were taken advantage of because they just weren’t paying attention. Whether they were looking at their phones, focused on a conversation, or something else, they had something keeping their attention away from present danger.
 
 &nbsp;
 
@@ -36,4 +36,4 @@ Absolutely. When I was a police officer, I saw many cases where people were take
 
 I think one of the most important things you can do is have a plan and maintain situational awareness. We’ll discuss that in more detail in our workshop.&nbsp;
 
-I would like to thank Jason once again for speaking with me. Email him at [Jason.white@ncfbins.com](mailto:Jason.white@ncfbins.com) if you have any questions. Check out this link if you’d like to sign up for our workshop and learn more about it. I look forward to seeing you there\!&nbsp;
+I would like to thank Jason once again for speaking with me. Email him at [Jason.white@ncfbins.com](mailto:Jason.white@ncfbins.com) if you have any questions. [Check out this link](https://www.eventbrite.com/e/family-safety-workshop-tickets-359542520357) if you’d like to sign up for our workshop and learn more about it. I look forward to seeing you there\!&nbsp;
