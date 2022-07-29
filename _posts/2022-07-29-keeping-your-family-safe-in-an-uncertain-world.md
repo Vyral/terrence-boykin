@@ -26,7 +26,11 @@ I’m a personal safety specialist, so my job is to keep families protected in a
 
 One of my favorite products is a keychain stun device. This doubles as an LED flashlight, so you don’t have to worry about getting lost at night. Plus, it has a disable pin. If you get into a fight with someone and they take this keychain from you, they won’t be able to use it against you.&nbsp;
 
+&nbsp;
+
 {% include pullquote.html %}
+
+&nbsp;
 
 Another one of my favorite products is pepper spray. The pepper spray I sell is stronger than the kind police officers carry, and it’s the strongest kind that’s commercially available.&nbsp;
 
