@@ -20,7 +20,7 @@ Do you worry when you go out shopping recently? Are you concerned for your kids 
 
 **Tina, what do you do, and how do you make people feel safer in today’s world?&nbsp;**
 
-I’m a personal safety specialist, so my job is to keep families protected in an unpredictable world. I also provide non-lethal alternatives to self-defense weapons. A lot of people don’t want to carry a gun or knife around with them, and I completely understand. So I make sure I cover everyone’s needs.
+I’m a personal safety specialist, so my job is to keep families protected in an unpredictable world. I also provide non-lethal alternatives to self-defense weapons. A lot of people don’t want to carry a gun or knife around with them, and I completely understand, so I make sure I cover everyone’s needs.
 
 **What are a few of the products you’ll have at our safety workshop on August 10?**
 
