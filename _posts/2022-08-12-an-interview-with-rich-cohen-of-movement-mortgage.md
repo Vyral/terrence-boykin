@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Interview With Rich Cohen of Movement Mortgage
-date:
+date: 2022-08-12 00:00:00
 tags:
   - Real Estate
 excerpt: An expert shares his advice about a new construction issue.
