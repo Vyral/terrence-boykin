@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Interview With Rich Cohen of Movement Mortgage
+title: Interviewing Rich Cohen of Movement Mortgage
 date: 2022-08-12 00:00:00
 tags:
   - Real Estate
@@ -17,7 +17,7 @@ youtube_code: wUM1J5lFHsc
 
 {% include excerpt.html %}
 
-What happens when interest rates increase, and you no longer qualify for your loan while you’re under contract for new construction? You can be put in a difficult position if you don’t handle it well. That’s why today, I invited Rich Cohen of Movement Mortgage, an expert on these real estate situations, to provide his professional advice and solutions.&nbsp;
+What happens when interest rates increase and you no longer qualify for your loan while you’re under contract for new construction? You will be put in a difficult position if you don’t handle it well. That’s why today I invited Rich Cohen of Movement Mortgage, an expert on these real estate situations, to provide his professional advice and solutions.&nbsp;
 
 **Feel free to watch the full interview or use these timestamps to browse specific topics at your leisure:**
 
@@ -33,6 +33,6 @@ What happens when interest rates increase, and you no longer qualify for your lo
 
 5:48 — Rich’s predictions for the market
 
-7:28 — Wrapping up
+6:46 — Wrapping up
 
 If you’re thinking about buying new construction or looking for a lender, you can reach out to Rich by giving him a call at (919) 616 4912. As always, if you have any real estate questions, call or email me. I look forward to hearing from you\!
