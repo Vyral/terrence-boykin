@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/terrence-1.jpg
-youtube_code: cfEGO0_oAU8
+youtube_code: 05O4U2S6B4U
 ---
 {% include youtube.html %}
 
