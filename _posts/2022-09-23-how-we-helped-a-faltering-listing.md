@@ -25,6 +25,6 @@ The seller decided to separate from the agent that had listed her house and call
 
 {% include pullquote.html %}
 
-After a week to get the marketing set, I listed it. After about a week, we had a full-price offer from a buyer that almost perfectly fit the buyer profile that we had discussed. I was able to list the home and sell it before the market shifted further. This just goes to show you need to make sure you’re working with the right agent the first time.
+After a week to get the marketing set, I listed the home. After about a week, we had a full-price offer from a buyer that almost perfectly fit the profile we had discussed. I was able to list the home and sell it before the market shifted further. This just goes to show you need to make sure you’re working with the right agent the first time.
 
-Give me a call or email, and let's sit down to discuss your needs and come up with a plan to get your house sold right the first time. I look forward to hearing from you.
+Give me a call or email so we can sit down to discuss your needs and come up with a plan to get your house sold right the first time. I look forward to hearing from you.
