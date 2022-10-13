@@ -40,4 +40,4 @@ Our third panel will have **a real estate agent who will walk you through the pr
 
 Lastly, **we’ll have a person who sells home warranties** talk to you about the importance of having a home warranty to make sure everything runs the way it's supposed to in the house during your first year.
 
-I know that was a lot to take in. Trust me, this buyer seminar will be well worth your time. Again, it's November 5 at 10 a.m. in our office in Garner. Sign up by going to this link; don't worry, it's at no cost to you and there will be food provided. We’d love to help you\!
+I know that was a lot to take in. Trust me, this buyer seminar will be well worth your time. Again, it's November 5 at 10 a.m. in our office in Garner. Sign up by going to this [link](https://www.eventbrite.com/e/first-time-home-buyer-seminar-tickets-440937364527){: target="_blank" rel="noopener"}; don't worry, it's at no cost to you and there will be food provided. We’d love to help you\!
