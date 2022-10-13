@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get Ready for the Home-Buying Process
+title: Do You Have Questions About Buying Your 1st Home?
 date: 2022-10-11 00:00:00
 tags:
   - Home Buyer Tips
