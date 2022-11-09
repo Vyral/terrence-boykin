@@ -27,7 +27,7 @@ Maybe your mom signed this agreement, and ten years down the road, she decides t
 
 {% include pullquote.html %}
 
-I had that situation with one of my clients. I’d gotten a listing agreement with her. We found a buyer for the property, and then we found out that she had signed these documents with this company, and there's now a lien on her property. So at the closing table, she will have to pay the normal 6% commission plus an extra 3% on top of that. That's just not right.
+I had that situation with one of my clients. I’d gotten a listing agreement with her. We found a buyer for the property, and then we found out that she had signed these documents with this company, and there's now a lien on her property. So at the closing table, she will have to pay the normal 6% commission plus an extra 3% on top of that. That's just not right. You can [watch the full story here.](https://abc11.com/mv-realty-investigation-quick-cash-nc-homeowners-40-year-contract-sell/12417208/){: target="_blank" rel="noopener"}&nbsp;
 
 As Realtors, we can make a great living. There's no reason to scam our elderly, our economically challenged, and our homeowners who don’t speak English as their first language. Most of these people have no idea what they're signing. At this point, it seems as though none of the Realtor associations are willing to do anything about it. They're not protecting homeowners. The state's real estate commission are taking complaints about it, but they're not doing anything about it. Our state attorney general office has an investigation into it, but they're not doing anything. Our elderly and our economically challenged are **losing money at the closing table every day because of this unethical company.** That's the best I can say on video.
 
