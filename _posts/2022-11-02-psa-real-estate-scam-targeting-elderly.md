@@ -31,7 +31,7 @@ I had that situation with one of my clients. I’d gotten a listing agreement wi
 
 As Realtors, we can make a great living. There's no reason to scam our elderly, our economically challenged, and our homeowners who don’t speak English as their first language. Most of these people have no idea what they're signing. At this point, it seems as though none of the Realtor associations are willing to do anything about it. They're not protecting homeowners. The state's real estate commission are taking complaints about it, but they're not doing anything about it. Our state attorney general office has an investigation into it, but they're not doing anything. Our elderly and our economically challenged are **losing money at the closing table every day because of this unethical company.** That's the best I can say on video.
 
-<div style="text-align:center;margin-bottom:4rem;color:ffffff;background-color:#bebdbd;font-weight:bold;border-radius:50px;">
+<div style="text-align:center;margin-bottom:4rem;color:ffffff;background-color:#bebdbd;border-radius:50px;">
 <a href="https://abc11.com/mv-realty-investigation-quick-cash-nc-homeowners-40-year-contract-sell/12417208/" class="apply-now" target="_blank"><h3>WATCH THE FULL STORY HERE</h3></a>
 </div>
 
