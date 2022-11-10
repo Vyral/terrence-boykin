@@ -32,10 +32,14 @@ I had that situation with one of my clients. I’d gotten a listing agreement wi
 As Realtors, we can make a great living. There's no reason to scam our elderly, our economically challenged, and our homeowners who don’t speak English as their first language. Most of these people have no idea what they're signing. At this point, it seems as though none of the Realtor associations are willing to do anything about it. They're not protecting homeowners. The state's real estate commission are taking complaints about it, but they're not doing anything about it. Our state attorney general office has an investigation into it, but they're not doing anything. Our elderly and our economically challenged are **losing money at the closing table every day because of this unethical company.** That's the best I can say on video.
 
 <div style="text-align:center;margin-bottom:4rem;color:ffffff;background-color:#bebdbd;border-radius:50px;">
-<a href="https://abc11.com/mv-realty-investigation-quick-cash-nc-homeowners-40-year-contract-sell/12417208/" class="apply-now" target="_blank"><h3>WATCH THE FULL STORY HERE</h3></a>
+<a href="https://abc11.com/mv-realty-investigation-quick-cash-nc-homeowners-40-year-contract-sell/12417208/" class="apply-now" target="_blank"><h5>WATCH THE FULL STORY HERE</h5></a>
 </div>
 
 
 So I want to say to you, please help your family members, your mom, your grandparents, your sisters, and your friend, and let them know that this scam is out there. No ethical agent will ever pay you money just to sit down and have a conversation about selling your house and lock you into a 40-year agreement with them.
 
 If you have any questions about this scam or if someone you know has been a victim of this one, please reach out to me by giving me a call at (919) 675-9967 or sending an email. I’d like to hear your thoughts\!
+
+
+
+
