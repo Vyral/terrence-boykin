@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Interview With Keith Warlick of Lifeway Mobility
+title: An Interview With Keith of Lifeway Mobility
 date: 2022-12-02 00:00:00
 tags:
   - Homeowner Tips
@@ -31,7 +31,7 @@ Are stairs becoming a problem for you and your house? Are parents or in-laws com
 
 4:00 — After the rental program for ramps and straight stairlifts is over, will the home be returned to the way it was?
 
-4:30 — How Lifeway Mobility go above and beyond for their clients
+4:30 — How staff members at Lifeway Mobility go above and beyond for their clients
 
 5:45 — Lifeway Mobility is all about prioritizing safety
 
