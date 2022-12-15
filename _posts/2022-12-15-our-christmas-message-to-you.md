@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Christmas Message to You
-date:
+date: 2022-12-15 00:00:00
 tags:
 excerpt: Our team wants to wish you and yours a very merry Christmas.
 enclosure:
