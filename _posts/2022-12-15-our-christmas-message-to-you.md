@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/terrence-boykin-yt-2.jpg
+youtube_alternate_image: /uploads/terrence-boykin-yt-3.jpg
 youtube_code: SKKq5zAfvAE
 ---
 {% include youtube.html %}
