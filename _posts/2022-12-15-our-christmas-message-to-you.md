@@ -3,7 +3,7 @@ layout: post
 title: Our Christmas Message to You
 date: 2022-12-15 00:00:00
 tags:
-excerpt: Our team wants to wish you and yours a very merry Christmas.
+excerpt: Our team wants to wish you and your family a very merry Christmas.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
