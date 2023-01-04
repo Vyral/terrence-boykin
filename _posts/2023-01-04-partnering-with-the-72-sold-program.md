@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Partnering With the 72 Sold Program
-date: 2023-01-04 00:00:00
+date: 2023-01-03 00:00:00
 tags:
   - Home Seller Tips
 excerpt: This program can help you sell your home faster and for more money.
